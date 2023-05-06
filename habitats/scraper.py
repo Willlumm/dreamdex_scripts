@@ -6,7 +6,7 @@ data = []
 session = HTMLSession()
 print("Scraping...")
 for i in range(0, 1009):
-    result = session.get("https://www.theworldofpokemon.com/entryPages/entryPage_f{i}.html")
+    result = session.get(f"https://www.theworldofpokemon.com/entryPages/entryPage_{i}.html")
     result.html.render()
     species = result.html.find("#entry-name", first=True).text
     habitat = result.html.find("#Habitat", first=True).text
