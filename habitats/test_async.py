@@ -3,11 +3,9 @@ from requests_html import AsyncHTMLSession
 
 session = AsyncHTMLSession()
 
-async def get_async():
-    r = await session.get('https://python.org/')
-    return r
+async def get_result():
+    result = await session.get('https://www.theworldofpokemon.com/entryPages/entryPage_387.html')
+    await result.html.arender()
+    print(result.html.text)
 
-result = session.run(get_async)
-# r.html.render()
-# r.html.search('Python 2.7 will retire in...{}Enable Guido Mode')[0]
-# r.text
+session.run(get_result)
