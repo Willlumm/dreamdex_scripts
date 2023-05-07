@@ -1,0 +1,1009 @@
+,species,habitat
+0,Bulbasaur,Kantonian forests and jungles
+1,Ivysaur,Kantonian forests and jungles
+2,Venusaur,Kantonian forests and jungles
+3,Charmander,Kantonian mountains and volcanoes
+4,Charmeleon,Kantonian mountains and volcanoes
+5,Charizard,Kantonian mountains and volcanoes
+6,Squirtle,Kantonian lakes and ponds
+7,Wartortle,Kantonian lakes and ponds
+8,Blastoise,Kantonian lakes and ponds
+9,Caterpie,"Forests, jungles"
+10,Metapod,"Forests, jungles"
+11,Butterfree,"Forests, jungles"
+12,Weedle,"Forests, woodlands"
+13,Kakuna,"Forests, woodlands"
+14,Beedrill,"Forests, woodlands"
+15,Pidgey,"Kanto and Johtonian forests, fields, and grasslands, cities"
+16,Pidgeotto,Kantonian and Johto forests and fields
+17,Pidgeot,Kantonian and Johtonian forests and fields
+18,Rattata,"Fields, plains, savannas, urban areas"
+19,Raticate,"Fields, plains, savannas, urban areas"
+20,Spearow,"Barren wastelands, fields, rocky areas"
+21,Fearow,"Rock spires near canyons, wastelands, tall trees"
+22,Ekans,"Savannas, plains, jungles"
+23,Arbok,"Savannas, plains, jungles"
+24,Pikachu,"Forests, areas with electrical activity"
+25,Raichu,"Forests, areas with electrical activity"
+26,Sandshrew,"Caves, grasslands, deserts"
+27,Sandslash,"Caves, grasslands, deserts"
+28,Nidoran♀,"Savannas, fields"
+29,Nidorina,"Savannas, fields"
+30,Nidoqueen,"Savannas, fields"
+31,Nidoran♂,"Savannas, fields"
+32,Nidorino,"Savannas, fields"
+33,Nidoking,"Savannas, fields"
+34,Clefairy,Mountains
+35,Clefable,Mountains
+36,Vulpix,"Fields, active and dormant volcanoes, cemeteries"
+37,Ninetales,"Fields, active and dormant volcanoes, cemeteries"
+38,Jigglypuff,Grassy meadows
+39,Wigglytuff,Grassy meadows
+40,Zubat,Caves
+41,Golbat,Caves
+42,Oddish,"Grassy plains, tropical jungles, swamps"
+43,Gloom,"Grassy plains, tropical jungles, swamps"
+44,Vileplume,"Grassy plains, tropical jungles, swamps"
+45,Paras,"Damp caves, forests, and woodlands"
+46,Parasect,"Damp caves, forests, and woodlands"
+47,Venonat,"Forests, woodlands, jungles"
+48,Venomoth,"Forests, woodlands, jungles"
+49,Diglett,"Subterranean caves and tunnels, deserts"
+50,Dugtrio,"Subterranean caves and tunnels, deserts"
+51,Meowth,"Urban towns and cities, forests"
+52,Persian,"Urban towns and cities, forests"
+53,Psyduck,"Temperate lakes and ponds, tropical rivers"
+54,Golduck,"Fast-moving tropical rivers, lakes, beaches"
+55,Mankey,"Forests, jungles, mountains"
+56,Primeape,"Forests, jungles, mountains"
+57,Growlithe,"Scorched plains, prairies, active volcanoes"
+58,Arcanine,"Scorched plains, prairies, active volcanoes"
+59,Poliwag,Ponds and lakes around lily pads
+60,Poliwhirl,"Ponds, lakes"
+61,Poliwrath,"Near ponds and lakes, damp caverns"
+62,Abra,"Abandoned buildings, secluded alleyways"
+63,Kadabra,"Abandoned buildings, secluded alleyways"
+64,Alakazam,"Abandoned buildings, secluded alleyways"
+65,Machop,"Mountains, caves"
+66,Machoke,"Mountains, caves"
+67,Machamp,"Mountains, caves"
+68,Bellsprout,"Tropical rainforests, humid swamps and bogs"
+69,Weepinbell,"Tropical rainforests, humid swamps and bogs"
+70,Victreebel,"Tropical rainforests, humid swamps and bogs"
+71,Tentacool,Oceans
+72,Tentacruel,Oceans
+73,Geodude,"Mountains, caves"
+74,Graveler,"Mountains, caves"
+75,Golem,"Mountains, caves"
+76,Ponyta,"Grasslands, plains"
+77,Rapidash,"Grasslands, plains"
+78,Slowpoke,"Riversides, lakesides, beaches"
+79,Slowbro,"Riversides, lakesides, beaches"
+80,Magnemite,"Power plants, rocky areas near metal ore"
+81,Magneton,"Power plants, rocky areas near metal ore"
+82,Farfetch'd,Grasslands and forests near water
+83,Doduo,"Plains, savannas"
+84,Dodrio,"Plains, savannas, deserts"
+85,Seel,Polar seas
+86,Dewgong,Polar seas
+87,Grimer,"Heavily-polluted areas, sewers, dumps"
+88,Muk,"Heavily-polluted areas, sewers, dumps"
+89,Shellder,"Cold, rocky sea floors, beaches"
+90,Cloyster,"Cold, rocky sea floors, deep-water coral reefs"
+91,Gastly,"Abandoned buildings, cemeteries, dark forests"
+92,Haunter,"Abandoned buildings, cemeteries, dark forests"
+93,Gengar,"Dark alleys, cemeteries, dark forests"
+94,Onix,"Mountains, subterranean caves and tunnels"
+95,Drowzee,"Near muddy rivers, grasslands, forests, rainforests"
+96,Hypno,"Grasslands, savannas, forests, rainforests"
+97,Krabby,"Sandy beaches, estuaries"
+98,Kingler,"Sandy beaches, estuaries"
+99,Voltorb,"Power plants, areas with electrical activity"
+100,Electrode,"Power plants, areas with electrical activity"
+101,Exeggcute,"Forests, tropical jungles"
+102,Exeggutor,"Forests, tropical jungles, warm beaches"
+103,Cubone,"Mountains, caves, badlands"
+104,Marowak,"Mountains, caves, badlands"
+105,Hitmonlee,"Urban towns and cities, mountains"
+106,Hitmonchan,"Urban towns and cities, mountains"
+107,Lickitung,Forests
+108,Koffing,"Urban areas near waste, active volcanoes"
+109,Weezing,"Urban areas near waste, active volcanoes"
+110,Rhyhorn,"Plains, savannas, mountains, badlands, caverns"
+111,Rhydon,"Plains, savannas, mountains, badlands, caverns"
+112,Chansey,"Forests, meadows, Pokémon Centers"
+113,Tangela,"Grassy plains, tropical jungles, wetlands"
+114,Kangaskhan,"Jungles, arid scrublands near water"
+115,Horsea,"Coral reefs, underwater caves"
+116,Seadra,"Coral reefs, underwater caves"
+117,Goldeen,"Ponds, lakes streams, rivers"
+118,Seaking,"Ponds, lakes streams, rivers"
+119,Staryu,Sea floors
+120,Starmie,Sea floors
+121,Mr. Mime,Urban and suburban areas
+122,Scyther,"Grasslands, forests, woodlands, jungles, mountains"
+123,Jynx,"Snowy mountains, icy caves, tundras"
+124,Electabuzz,"Power plants, fields"
+125,Magmar,Active volcanoes
+126,Pinsir,"Temperate jungles and forests, deserts"
+127,Tauros,"Grasslands, plains, farms and ranches"
+128,Magikarp,"Ponds, lakes, streams, rivers, oceans"
+129,Gyarados,"Ponds, lakes, streams, rivers, oceans"
+130,Lapras,Polar and tropical seas
+131,Ditto,"Anywhere, generally near humans"
+132,Eevee,"Cities, forests"
+133,Vaporeon,"Large, clean lakesides"
+134,Jolteon,"Arid, dry chaparrals"
+135,Flareon,"Warm, dry grasslands"
+136,Porygon,"Computers, labs"
+137,Omanyte,Prehistoric sea floors and reefs
+138,Omastar,Prehistoric sea floors and reefs
+139,Kabuto,Prehistoric sea floors and shores
+140,Kabutops,Prehistoric sea floors and shores
+141,Aerodactyl,Prehistoric mountainous forests
+142,Snorlax,"Forests, mountains"
+143,Articuno,"Isolated, snowy mountain peaks"
+144,Zapdos,Secluded areas with high electrical activity
+145,Moltres,Remote active volcanoes
+146,Dratini,Deep lakes
+147,Dragonair,Deep lakes
+148,Dragonite,"Deep lakes, oceans"
+149,Mewtwo,"Anywhere, but prefers solitude"
+150,Mew,Anywhere
+151,Chikorita,Johtonian grasslands
+152,Bayleef,Johtonian grasslands
+153,Meganium,Johtonian grasslands
+154,Cyndaquil,Johtonian grasslands and volcanic areas
+155,Quilava,Johtonian grasslands and volcanic areas
+156,Typhlosion,Johtonian grasslands and volcanic areas
+157,Totodile,"Johtonian lakes, rivers, and estuaries"
+158,Croconaw,"Johtonian lakes, rivers, and estuaries"
+159,Feraligatr,"Johtonian lakes, rivers, and estuaries"
+160,Sentret,"Grasslands, meadows, woodlands, boreal forests"
+161,Furret,"Grasslands, meadows, woodlands, boreal forests"
+162,Hoothoot,"Woods, forests"
+163,Noctowl,"Woods, forests"
+164,Ledyba,"Forests, woodlands, jungles"
+165,Ledian,"Forests, woodlands, jungles"
+166,Spinarak,"Forests, woodlands"
+167,Ariados,"Forests, woodlands"
+168,Crobat,"Caves, forests"
+169,Chinchou,"Sea floors, ocean abysses"
+170,Lanturn,"Sea floors, ocean abysses"
+171,Pichu,"Forests, cities, areas with electrical activity"
+172,Cleffa,Mountains
+173,Igglybuff,Grassy meadows near streams
+174,Togepi,Forests
+175,Togetic,Forests
+176,Natu,"Tropical forests, jungle ruins, deserts"
+177,Xatu,"Tropical forests, jungle ruins, deserts"
+178,Mareep,"Grassy fields, farms and ranches"
+179,Flaaffy,"Grassy fields, farms and ranches"
+180,Ampharos,"Grassy fields, farms and ranches"
+181,Bellossom,"Grassy fields, tropical jungles"
+182,Marill,"Ponds, lakes, rivers, streams"
+183,Azumarill,"Ponds, lakes, rivers, streams"
+184,Sudowoodo,Forests
+185,Politoed,Ponds and lakes
+186,Hoppip,"Above forests, fields, and mountains"
+187,Skiploom,"Above forests, fields, and mountains"
+188,Jumpluff,"Above forests, fields, and mountains"
+189,Aipom,"Forests, jungles"
+190,Sunkern,"Fields, meadows"
+191,Sunflora,"Fields, meadows"
+192,Yanma,"Woodlands, swamps"
+193,Wooper,"Ponds, lakes, rivers, marshes"
+194,Quagsire,"Ponds, lakes, rivers, marshes"
+195,Espeon,Urban towns and cities
+196,Umbreon,Urban towns and cities
+197,Murkrow,"Woods, cities, swamps, forests"
+198,Slowking,"Riversides, lakesides, beaches"
+199,Misdreavus,"Woods, forests, caves"
+200,Unown,Ruins and temples
+201,Wobbuffet,"Dark caves and forests, near ponds"
+202,Girafarig,"Plains, savannas, near mountains and water"
+203,Pineco,"Forests, in trees"
+204,Forretress,"Forests, in trees"
+205,Dunsparce,Caves
+206,Gligar,"Mountains, deserts, forests, cliffsides"
+207,Steelix,"Mountains, subterranean caves and tunnels"
+208,Snubbull,"Urban towns and cities, forests"
+209,Granbull,"Urban towns and cities, forests"
+210,Qwilfish,Open ocean
+211,Scizor,"Grasslands, forests, woodlands"
+212,Shuckle,"Caves, mountains, beaches"
+213,Heracross,Forests
+214,Sneasel,"Boreal forests, icy caves and mountains"
+215,Teddiursa,"Mountains, temperate and boreal forests"
+216,Ursaring,"Mountains, temperate and boreal forests"
+217,Slugma,Volcanoes
+218,Magcargo,Volcanoes
+219,Swinub,"Icy caves and mountains, tundras"
+220,Piloswine,"Icy caves and mountains, tundras"
+221,Corsola,Tropical seas and reefs
+222,Remoraid,"Streams and rivers, oceans"
+223,Octillery,"Sea floors, open ocean"
+224,Delibird,Icy mountains
+225,Mantine,Open ocean
+226,Skarmory,"Harsh mountains, crags, badlands, tundra"
+227,Houndour,"Woods, volcanoes, badlands"
+228,Houndoom,"Woods, volcanoes, badlands"
+229,Kingdra,"Coral reefs, underwater caves"
+230,Phanpy,Rocky areas and plains near water
+231,Donphan,Rocky areas and plains near water
+232,Porygon2,"Computers, labs"
+233,Stantler,"Temperate and boreal forests, mountains"
+234,Smeargle,"Urban towns and cities, forests"
+235,Tyrogue,"Urban towns and cities, mountains"
+236,Hitmontop,"Urban towns and cities, mountains"
+237,Smoochum,"Snowy mountains, icy caves, tundras"
+238,Elekid,"Power plants, fields"
+239,Magby,Active volcanoes
+240,Miltank,"Pastures, plains, farms and ranches"
+241,Blissey,"Forests, meadows, Pokémon Centers"
+242,Raikou,"Anywhere, but prefers grasslands"
+243,Entei,"Anywhere, but prefers volcanoes"
+244,Suicune,"Anywhere, but prefers lakes"
+245,Larvitar,"Mountains, badlands"
+246,Pupitar,"Mountains, badlands"
+247,Tyranitar,"Mountains, badlands"
+248,Lugia,Ocean floor
+249,Ho-Oh,Clear skies
+250,Celebi,Forests
+251,Treecko,Hoennian forests
+252,Grovyle,Hoennian forests
+253,Sceptile,Hoennian forests
+254,Torchic,Hoennian savannas and volcanoes
+255,Combusken,Hoennian savannas and volcanoes
+256,Blaziken,Hoennian savannas and volcanoes
+257,Mudkip,"Hoennian marshes, estuaries, and beaches"
+258,Marshtomp,"Hoennian marshes, estuaries, and beaches"
+259,Swampert,"Hoennian marshes, estuaries, and beaches"
+260,Poochyena,"Grasslands, savannas, forests"
+261,Mightyena,"Grasslands, savannas, forests"
+262,Zigzagoon,"Woodlands, grasslands, fields, cities"
+263,Linoone,"Woodlands, grasslands, fields, cities"
+264,Wurmple,Forests
+265,Silcoon,Forests
+266,Beautifly,Forests
+267,Cascoon,Forests
+268,Dustox,"Forests, cities"
+269,Lotad,Ponds
+270,Lombre,"Ponds, rivers"
+271,Ludicolo,Ponds
+272,Seedot,"Forests, woodlands"
+273,Nuzleaf,"Forests, woodlands"
+274,Shiftry,"Forests, woodlands"
+275,Taillow,Warm grasslands and meadows
+276,Swellow,Warm grasslands and meadows
+277,Wingull,"Open ocean, shorelines, seaside cliffs"
+278,Pelipper,"Open ocean, shorelines, seaside cliffs"
+279,Ralts,"Outskirts of urban areas, forests"
+280,Kirlia,"Outskirts of urban areas, forests"
+281,Gardevoir,"Outskirts of urban areas, forests"
+282,Surskit,"Ponds, lakes, wetlands"
+283,Masquerain,"Ponds, lakes, wetlands"
+284,Shroomish,Damp forest floors
+285,Breloom,Damp forests
+286,Slakoth,"Forests, woods, jungles"
+287,Vigoroth,"Forests, woods, jungles"
+288,Slaking,"Forests, woods, jungles"
+289,Nincada,"Forests, underground beneath tree roots, woodlands"
+290,Ninjask,"Forests, woodlands"
+291,Shedinja,"Forests, woodlands"
+292,Whismur,Caves
+293,Loudred,Caves
+294,Exploud,Caves
+295,Makuhita,Mountains
+296,Hariyama,Mountains
+297,Azurill,"Ponds, lakes, rivers, streams"
+298,Nosepass,Caves
+299,Skitty,"﻿Forests, cities"
+300,Delcatty,"Forests, cities"
+301,Sableye,Caves
+302,Mawile,Caves
+303,Aron,"Mountains, caves"
+304,Lairon,"Mountains, caves"
+305,Aggron,"Mountains, caves"
+306,Meditite,"Mountains, fields"
+307,Medicham,"Mountains, fields"
+308,Electrike,Grasslands
+309,Manectric,Grasslands
+310,Plusle,Fields
+311,Minun,Fields
+312,Volbeat,Forests and fields near ponds
+313,Illumise,Forests and fields near ponds
+314,Roselia,"Gardens, fields"
+315,Gulpin,"Grasslands, swamps, cities"
+316,Swalot,"Grasslands, swamps, cities"
+317,Carvanha,Tropical rivers
+318,Sharpedo,Open ocean
+319,Wailmer,"Open ocean, beaches"
+320,Wailord,"Open ocean, beaches"
+321,Numel,Volcanoes
+322,Camerupt,Volcanoes
+323,Torkoal,Volcanoes
+324,Spoink,"Mountains, cliffs near oceans"
+325,Grumpig,"Mountains, cliffs near oceans"
+326,Spinda,"Mountains, fields"
+327,Trapinch,Deserts
+328,Vibrava,Deserts
+329,Flygon,Deserts
+330,Cacnea,Deserts
+331,Cacturne,Deserts
+332,Swablu,"Forests, fields, cities, hot springs"
+333,Altaria,"Forests, fields, hot springs"
+334,Zangoose,"Grasslands, watersides"
+335,Seviper,"Grasslands, watersides"
+336,Lunatone,"Caves, meteor crash sites"
+337,Solrock,"Caves, meteor crash sites"
+338,Barboach,"Ponds, marshes, rivers, swamps"
+339,Whiscash,"Ponds, marshes, rivers, swamps"
+340,Corphish,"Lakes, ponds, rivers, streams"
+341,Crawdaunt,"Lakes, ponds, rivers, streams"
+342,Baltoy,Ruins
+343,Claydol,Ruins
+344,Lileep,Prehistoric sea floors and reefs
+345,Cradily,Prehistoric sea floors and reefs
+346,Anorith,Prehistoric seas and reefs
+347,Armaldo,Prehistoric seas and shores
+348,Feebas,"Ponds, lakes, rivers, seas"
+349,Milotic,"Lakes, rivers, seas"
+350,Castform,"Areas with unpredictable weather, weather stations"
+351,Kecleon,"Forests, fields, jungles"
+352,Shuppet,Urban areas
+353,Banette,Urban areas
+354,Duskull,"Forests, woods, badlands"
+355,Dusclops,"Forests, woods, badlands"
+356,Tropius,Tropical jungles
+357,Chimecho,"Mountains, woods, grasslands, cemeteries"
+358,Absol,"Mountains, near disasters"
+359,Wynaut,Dark caves and forests
+360,Snorunt,Icy caves and peaks
+361,Glalie,Icy caves and peaks
+362,Spheal,"Polar seas, icy caves"
+363,Sealeo,"Polar seas, icy caves"
+364,Walrein,"Polar seas, icy caves"
+365,Clamperl,Sea floors
+366,Huntail,Ocean trenches and abysses
+367,Gorebyss,"Tropical reefs, ocean trenches and abysses"
+368,Relicanth,"Deep ocean waters, underwater caves"
+369,Luvdisc,"Coral reefs, tropical seas"
+370,Bagon,"Caverns, cliffs, canyons"
+371,Shelgon,"Caverns, cliffs, canyons"
+372,Salamence,"Caverns, cliffs, canyons"
+373,Beldum,"Cliffs, canyons, badlands"
+374,Metang,"Cliffs, canyons, badlands"
+375,Metagross,"Cliffs, canyons, badlands"
+376,Regirock,"Caves, ruins"
+377,Regice,"Caves, ruins"
+378,Registeel,"Caves, ruins"
+379,Latias,Near water
+380,Latios,Near water
+381,Kyogre,Ocean trenches
+382,Groudon,Magma chambers
+383,Rayquaza,Ozone layer
+384,Jirachi,"Caves, ruins"
+385,Deoxys,Meteor crash sites
+386,Turtwig,Sinnohian forests
+387,Grotle,Sinnohian forests
+388,Torterra,Sinnohian forests
+389,Chimchar,Sinnohian mountains
+390,Monferno,Sinnohian mountains
+391,Infernape,Sinnohian mountains
+392,Piplup,Polar Sinnohian seas
+393,Prinplup,Polar Sinnohian seas
+394,Empoleon,Polar Sinnohian seas
+395,Starly,"Forests, fields, mountains, cities"
+396,Staravia,"Forests, fields, mountains"
+397,Staraptor,"Forests, fields, mountains"
+398,Bidoof,Riversides
+399,Bibarel,Riversides
+400,Kricketot,Fields
+401,Kricketune,Fields
+402,Shinx,"Fields, savannas"
+403,Luxio,"Fields, savannas"
+404,Luxray,"Fields, savannas"
+405,Budew,"Gardens, fields"
+406,Roserade,"Gardens, fields"
+407,Cranidos,Prehistoric jungles
+408,Rampardos,Prehistoric jungles
+409,Shieldon,Prehistoric forests and woodlands
+410,Bastiodon,Prehistoric forests and woodlands
+411,Burmy,"Forests, riversides, urban areas"
+412,Wormadam,"Forests, riversides, urban areas"
+413,Mothim,Forests
+414,Combee,"Forests, caves"
+415,Vespiquen,"Forests, caves"
+416,Pachirisu,"Forests, fields, power plants, cities"
+417,Buizel,"Rivers, beaches, kelp forests"
+418,Floatzel,"Rivers, beaches, kelp forests"
+419,Cherubi,Trees in forests
+420,Cherrim,Trees in forests
+421,Shellos,"Ocean shorelines, tidepools, tropical reefs"
+422,Gastrodon,"Ocean shorelines, tidepools, tropical reefs"
+423,Ambipom,"Forests, jungles"
+424,Drifloon,"Clear skies, over volcanoes"
+425,Drifblim,"Clear skies, over volcanoes"
+426,Buneary,"Forests, mountains, near streams"
+427,Lopunny,"Forests, mountains, near streams"
+428,Mismagius,"Woods, forests, caves"
+429,Honchkrow,"Woods, cities, swamps, forests"
+430,Glameow,"Urban areas, forests"
+431,Purugly,"Urban areas, forests"
+432,Chingling,"Mountains, woods, grasslands, cemeteries"
+433,Stunky,"Forests, woodlands"
+434,Skuntank,"Forests, woodlands"
+435,Bronzor,"Ruins, caves"
+436,Bronzong,"Ruins, caves"
+437,Bonsly,"Forests, mountains"
+438,Mime Jr.,Urban and suburban areas
+439,Happiny,"Forests, meadows"
+440,Chatot,"Forests, fields, mountains, cities"
+441,Spiritomb,Ruins
+442,Gible,"Caverns, badlands, volcanoes"
+443,Gabite,"Caverns, badlands, volcanoes"
+444,Garchomp,"Caverns, badlands, volcanoes"
+445,Munchlax,"Forests, mountains, cities"
+446,Riolu,Mountains
+447,Lucario,Mountains
+448,Hippopotas,Deserts
+449,Hippowdon,Deserts
+450,Skorupi,"Deserts, marshes"
+451,Drapion,"Deserts, marshes"
+452,Croagunk,"Marshes, swamps, forests, damp forests"
+453,Toxicroak,"Marshes, swamps, forests, damp forests"
+454,Carnivine,"Marshes, swamps, forests"
+455,Finneon,"Open ocean, coral reefs, ocean abysses, rivers"
+456,Lumineon,"Deep ocean waters, trenches and abysses"
+457,Mantyke,Sunlit open ocean
+458,Snover,"Boreal forests, snowy mountain peaks"
+459,Abomasnow,"Boreal forests, snowy mountain peaks"
+460,Weavile,"Boreal forests, snowy caves and mountains"
+461,Magnezone,"Power plants, rocky areas near metal ore"
+462,Lickilicky,Forests
+463,Rhyperior,"Plains, savannas, mountains, badlands, caverns"
+464,Tangrowth,"Grassy plains, tropical jungles, wetlands"
+465,Electivire,"Power plants, fields"
+466,Magmortar,Active volcanoes
+467,Togekiss,Forests
+468,Yanmega,"Woodlands, swamps"
+469,Leafeon,"Forests, woodlands"
+470,Glaceon,"Tundras, snowy mountains"
+471,Gliscor,"Mountains, deserts, forests, cliffsides"
+472,Mamoswine,"Icy caves and mountains, tundras"
+473,Porygon-Z,"Computers, labs"
+474,Gallade,"Outskirts of urban areas, forests"
+475,Probopass,Caves
+476,Dusknoir,"Forests, woods, badlands"
+477,Froslass,Icy caves and mountains
+478,Rotom,Urban areas
+479,Uxie,"Museums, libraries, schools"
+480,Mesprit,"Memorial sites, festivals"
+481,Azelf,"Isolated, difficult-to-reach areas"
+482,Dialga,Unknown dimension
+483,Palkia,Unknown dimension
+484,Heatran,Unknown dimension
+485,Regigigas,"Ruins, caves"
+486,Giratina,"Distortion World, cemeteries"
+487,Cresselia,Forests and lakes during the crescent moon
+488,Phione,"Warm, open seas"
+489,Manaphy,Open ocean
+490,Darkrai,Forests and cities during the new moon
+491,Shaymin,Forests and cities during the new moon
+492,Arceus,Unknown dimension
+493,Victini,Cities
+494,Snivy,"Unovan fields, grasslands, and forests"
+495,Servine,"Unovan fields, grasslands, and forests"
+496,Serperior,"Unovan fields, grasslands, and forests"
+497,Tepig,Unovan fields and grasslands
+498,Pignite,Unovan fields and grasslands
+499,Emboar,Unovan fields and grasslands
+500,Oshawott,Unovan beaches
+501,Dewott,Unovan beaches
+502,Samurott,Unovan beaches
+503,Patrat,"Prairies, fields, savannas, deserts"
+504,Watchog,"Prairies, fields, savannas, deserts"
+505,Lillipup,"Fields, cities"
+506,Herdier,"Fields, cities"
+507,Stoutland,"Fields, mountains"
+508,Purrloin,"Cities, jungles, savannas"
+509,Liepard,"Jungles, savannas"
+510,Pansage,"Forests, jungles, woodlands"
+511,Simisage,"Forests, jungles, woodlands"
+512,Pansear,"Forests, jungles, volcanoes"
+513,Simisear,"Forests, jungles, volcanoes"
+514,Panpour,"Forests, jungles, lakesides"
+515,Simipour,"Forests, jungles, lakesides"
+516,Munna,"Urban outskirts, abandoned buildings"
+517,Musharna,"Urban outskirts, abandoned buildings"
+518,Pidove,"Cities, forests, prairies"
+519,Tranquill,"Cities, forests, prairies"
+520,Unfezant,"Forests, prairies"
+521,Blitzle,"Plains, savannas"
+522,Zebstrika,"Plains, savannas"
+523,Roggenrola,"Mountains, subterranean caves"
+524,Boldore,"Mountains, subterranean caves"
+525,Gigalith,"Mountains, subterranean caves"
+526,Woobat,"Caves, forests"
+527,Swoobat,"Caves, forests"
+528,Drilbur,Subterranean caves and tunnels
+529,Excadrill,Subterranean caves and tunnels
+530,Audino,"Forests, cities"
+531,Timburr,"Forests, mountains, construction sites"
+532,Gurdurr,"Forests, mountains, construction sites"
+533,Conkeldurr,"Forests, mountains, construction sites"
+534,Tympole,"Ponds, wetlands"
+535,Palpitoad,"Ponds, wetlands"
+536,Seismitoad,"Ponds, wetlands"
+537,Throh,"Forests, mountains"
+538,Sawk,"Forests, mountains"
+539,Sewaddle,Forests
+540,Swadloon,Forests
+541,Leavanny,Forests
+542,Venipede,"Forests, woodlands"
+543,Whirlipede,"Forests, woodlands"
+544,Scolipede,"Forests, woodlands"
+545,Cottonee,"Forests, woodlands"
+546,Whimsicott,"Forests, woodlands"
+547,Petilil,"Forests, woodlands"
+548,Lilligant,"Forests, woodlands"
+549,Basculin,"Lakes, rivers, ponds"
+550,Sandile,Deserts
+551,Krokorok,Deserts
+552,Krookodile,Deserts
+553,Darumaka,"Deserts, ruins"
+554,Darmanitan,"Deserts, ruins"
+555,Maractus,Deserts
+556,Dwebble,"Caves, deserts"
+557,Crustle,"Caves, deserts"
+558,Scraggy,"Deserts, badlands"
+559,Scrafty,"Deserts, badlands"
+560,Sigilyph,Ruins
+561,Yamask,"Ruins, tombs"
+562,Cofagrigus,"Ruins, tombs"
+563,Tirtouga,Prehistoric beaches and warm oceans
+564,Carracosta,Prehistoric beaches and warm oceans
+565,Archen,Prehistoric forests and jungles
+566,Archeops,Prehistoric forests and jungles
+567,Trubbish,"Landfills, dumps, polluted urban areas"
+568,Garbodor,"Landfills, dumps, polluted urban areas"
+569,Zorua,"Forests, woodlands, urban outskirts"
+570,Zoroark,"Forests, woodlands, urban outskirts"
+571,Minccino,"Woodlands, mountains, near streams"
+572,Cinccino,"Woodlands, mountains, near streams"
+573,Gothita,Urban outskirts
+574,Gothorita,Urban outskirts
+575,Gothitelle,Urban outskirts
+576,Solosis,Urban outskirts
+577,Duosion,Urban outskirts
+578,Reuniclus,Urban outskirts
+579,Ducklett,"Ponds, lakes, large puddles"
+580,Swanna,"Ponds, lakes"
+581,Vanillite,Southern icy caves and mountains
+582,Vanillish,Southern icy caves and mountains
+583,Vanilluxe,Southern icy caves and mountains
+584,Deerling,"Montane and temperate forests, woodlands"
+585,Sawsbuck,"Montane and temperate forests, woodlands"
+586,Emolga,Deciduous forests
+587,Karrablast,"Wetlands, fields, forests"
+588,Escavalier,"Wetlands, fields"
+589,Foongus,Damp forest floors and fields
+590,Amoonguss,Damp forest floors and fields
+591,Frillish,"Deep ocean waters, trenches and abysses"
+592,Jellicent,"Deep ocean waters, trenches and abysses"
+593,Alomomola,Open ocean
+594,Joltik,"Forests, caves, cities"
+595,Galvantula,"Forests, caves"
+596,Ferroseed,"Damp, mossy caves"
+597,Ferrothorn,"Damp, mossy caves"
+598,Klink,"Caves, industrial areas"
+599,Klang,"Caves, industrial areas"
+600,Klinklang,"Caves, industrial areas"
+601,Tynamo,"Damp caves, lakes, rivers, coastal waters"
+602,Eelektrik,"Damp caves, lakes, rivers, coastal waters"
+603,Eelektross,"Damp caves, lakes, rivers, coastal waters"
+604,Elgyem,"Remote areas, deserts"
+605,Beheeyem,"Remote areas, deserts"
+606,Litwick,"Abandoned buildings, woods"
+607,Lampent,"Abandoned buildings, woods"
+608,Chandelure,"Abandoned buildings, woods"
+609,Axew,"Caves, riversides"
+610,Fraxure,"Caves, riversides"
+611,Haxorus,"Caves, riversides"
+612,Cubchoo,"Northern icy caves and glaciers, tundras"
+613,Beartic,"Northern icy caves and glaciers, tundras, polar seas"
+614,Cryogonal,"Icy mountains, snow clouds"
+615,Shelmet,"Wetlands, fens"
+616,Accelgor,"Wetlands, fens"
+617,Stunfisk,"Marshes, wetlands, fens, estuaries, beaches"
+618,Mienfoo,Mountains
+619,Mienshao,Mountains
+620,Druddigon,Caves
+621,Golett,Ruins
+622,Golurk,Ruins
+623,Pawniard,"Badlands, highlands, near rivers"
+624,Bisharp,"Badlands, highlands, near rivers"
+625,Bouffalant,"Plains, savannas"
+626,Rufflet,"Coniferous forests, wetlands, badlands"
+627,Braviary,"Coniferous forests, wetlands, badlands"
+628,Vullaby,"Plains, badlands"
+629,Mandibuzz,"Plains, badlands"
+630,Heatmor,"Tropical rainforests, caves, mountains"
+631,Durant,"Tropical rainforests, caves, mountains"
+632,Deino,Caves
+633,Zweilous,Caves
+634,Hydreigon,"Caves, cliffs, highlands"
+635,Larvesta,Volcanoes
+636,Volcarona,"Volcanoes, temples"
+637,Cobalion,"Remote, mountainous areas"
+638,Terrakion,"Remote, rocky areas"
+639,Virizion,"Remote, grassy areas"
+640,Tornadus,Windy areas
+641,Thundurus,Stormy areas
+642,Reshiram,Unova
+643,Zekrom,Unova
+644,Landorus,"Fertile areas, farmlands"
+645,Kyurem,Unova glaciers
+646,Keldeo,Remote areas near lakes and rivers
+647,Meloetta,"Concert halls, theaters"
+648,Genesect,"Laboratories, research facilities"
+649,Chespin,"Kalosian grasslands, fields and forests"
+650,Quilladin,"Kalosian grasslands, fields and forests"
+651,Chesnaught,"Kalosian grasslands, fields and forests"
+652,Fennekin,"Kalosian forests, chaparrals and deserts"
+653,Braixen,"Kalosian forests, chaparrals and deserts"
+654,Delphox,"Kalosian forests, chaparrals and deserts"
+655,Froakie,Kalosian ponds and wetlands
+656,Frogadier,Kalosian ponds and wetlands
+657,Greninja,Kalosian ponds and wetlands
+658,Bunnelby,"Forests, fields, mountains, rocky areas"
+659,Diggersby,"Forests, fields, mountains, rocky areas"
+660,Fletchling,"Woodlands, fields, urban areas"
+661,Fletchinder,"Woodlands, fields"
+662,Talonflame,"Woodlands, fields"
+663,Scatterbug,"Temperate, tropical, and boreal forests"
+664,Spewpa,"Temperate, tropical, and boreal forests"
+665,Vivillon,"Temperate, tropical, and boreal forests"
+666,Litleo,"Savannas, fields"
+667,Pyroar,"Savannas, fields"
+668,Flabébé,"Fields, gardens"
+669,Floette,"Fields, gardens"
+670,Florges,"Fields, gardens"
+671,Skiddo,"Mountains, fields, pastures, farms ranches"
+672,Gogoat,"Mountains, fields, pastures, farms ranches"
+673,Pancham,"Bamboo forests, mountains"
+674,Pangoro,"Bamboo forests, mountains"
+675,Furfrou,Urban towns and cities
+676,Espurr,"Abandoned urban settlements, fields"
+677,Meowstic,"Abandoned urban settlements, fields"
+678,Honedge,"Castle ruins, abandoned mansions"
+679,Doublade,"Castle ruins, abandoned mansions"
+680,Aegislash,"Castle ruins, abandoned mansions"
+681,Spritzee,"Woodlands, meadows, rural areas"
+682,Aromatisse,"Woodlands, meadows, rural areas"
+683,Swirlix,"Woodlands, meadows, urban areas"
+684,Slurpuff,"Woodlands, meadows, urban areas"
+685,Inkay,"Beaches, tide pools, trenches and abysses"
+686,Malamar,"Beaches, tide pools, trenches and abysses"
+687,Binacle,"Beaches, tide pools"
+688,Barbaracle,"Beaches, tide pools"
+689,Skrelp,"Kelp forests, trenches and abysses"
+690,Dragalge,"Kelp forests, trenches and abysses"
+691,Clauncher,"Coral reefs, sea floors"
+692,Clawitzer,"Coral reefs, sea floors"
+693,Helioptile,Deserts
+694,Heliolisk,Deserts
+695,Tyrunt,Prehistoric jungles and mountains
+696,Tyrantrum,Prehistoric jungles and mountains
+697,Amaura,Prehistoric glaciers and tundras
+698,Aurorus,Prehistoric glaciers and tundras
+699,Sylveon,"Woodlands, urban areas"
+700,Hawlucha,Open fields and forests
+701,Dedenne,"Fields, meadows, urban areas"
+702,Carbink,"Subterranean caves, bedrock"
+703,Goomy,"Swamps, marshes"
+704,Sliggoo,"Swamps, marshes"
+705,Goodra,"Swamps, marshes"
+706,Klefki,Urban towns and cities
+707,Phantump,"Forests, woods"
+708,Trevenant,"Forests, woods"
+709,Pumpkaboo,"Fields, farmlands, urban areas"
+710,Gourgeist,"Fields, farmlands, urban areas"
+711,Bergmite,"Glaciers, icy mountains, polar seas"
+712,Avalugg,"Glaciers, icy mountains, polar seas"
+713,Noibat,"Caves, forests"
+714,Noivern,"Caves, forests"
+715,Xerneas,Woodlands
+716,Yveltal,Wastelands
+717,Zygarde,Caves
+718,Diancie,"Subterranean caves, bedrock"
+719,Hoopa,"Anywhere, but prefers deserts"
+720,Volcanion,Mountains
+721,Rowlet,Alolan forests and woodlands
+722,Dartrix,Alolan forests and woodlands
+723,Decidueye,Alolan forests and woodlands
+724,Litten,Alolan jungles and grasslands
+725,Torracat,Alolan jungles and grasslands
+726,Incineroar,Alolan jungles and grasslands
+727,Popplio,Alolan beaches
+728,Brionne,Alolan beaches
+729,Primarina,Alolan beaches
+730,Pikipek,Tropical rainforests
+731,Trumbeak,Tropical rainforests
+732,Toucannon,Tropical rainforests
+733,Yungoos,"Forests, grasslands, caves"
+734,Gumshoos,"Forests, grasslands, caves"
+735,Grubbin,"Woodlands, rainforests, power plants"
+736,Charjabug,"Woodlands, rainforests, power plants"
+737,Vikavolt,"Woodlands, rainforests, power plants"
+738,Crabrawler,Coastal forests
+739,Crabominable,Snowy peaks
+740,Oricorio,Meadows
+741,Cutiefly,"Fields, meadows, urban outskirts, cities"
+742,Ribombee,"Fields, meadows"
+743,Rockruff,"Forests, mountains, badlands, deserts"
+744,Lycanroc,"Forests, mountains, badlands, deserts"
+745,Wishiwashi,"Open ocean, tropical reefs"
+746,Mareanie,"Tropical seas and reefs, beaches, sea floors"
+747,Toxapex,"Tropical seas and reefs, beaches, tide pools, sea floors"
+748,Mudbray,"Farms and ranches, plains, badlands, marshes"
+749,Mudsdale,"Farms and ranches, plains, badlands, marshes"
+750,Dewpider,"Ponds, streams, brooks, riversides"
+751,Araquanid,"Ponds, streams, brooks, riversides"
+752,Fomantis,Tropical jungles
+753,Lurantis,Tropical jungles
+754,Morelull,Dark woodlands and forests
+755,Shiinotic,Dark woodlands and forests
+756,Salandit,"Volcanoes, badlands, volcanic caverns"
+757,Salazzle,"Volcanoes, badlands, volcanic caverns"
+758,Stufful,"Forests, cities"
+759,Bewear,Forests
+760,Bounsweet,Tropical jungles
+761,Steenee,Tropical jungles
+762,Tsareena,Tropical jungles
+763,Comfey,"Meadows, Pokémon Centers"
+764,Oranguru,"Rainforests, mountainous cloud forests"
+765,Passimian,"Forests, rainforests"
+766,Wimpod,"Beaches, tide pools, sea floors"
+767,Golisopod,"Beaches, tide pools, underwater caves"
+768,Sandygast,Sandy beaches
+769,Palossand,Sandy beaches
+770,Pyukumuku,"Beaches, sea floors"
+771,Type: Null,Aether Paradise
+772,Silvally,Aether Paradise
+773,Minior,"Stratosphere, mountain peaks, open areas"
+774,Komala,Mountainous forests
+775,Turtonator,"Volcanoes, caves, mountains"
+776,Togedemaru,"Fields, forests, power plants"
+777,Mimikyu,"Abandoned buildings, dark alleys"
+778,Bruxish,"Tropical reefs, warm seas"
+779,Drampa,Mountains
+780,Dhelmise,"Open ocean, trenches and abysses"
+781,Jangmo-o,"Canyons, mountains, badlands, caves"
+782,Hakamo-o,"Canyons, mountains, badlands, caves"
+783,Kommo-o,"Canyons, mountains, badlands, caves"
+784,Tapu Koko,Melemele Island
+785,Tapu Lele,Akala Island
+786,Tapu Bulu,Ula'ula Island
+787,Tapu Fini,Poni Island
+788,Cosmog,Ultra Space
+789,Cosmoem,Ultra Space
+790,Solgaleo,Ultra Space
+791,Lunala,Ultra Space
+792,Nihilego,Ultra Space
+793,Buzzwole,Ultra Space
+794,Pheromosa,Ultra Space
+795,Xurkitree,Ultra Space
+796,Celesteela,Ultra Space
+797,Kartana,Ultra Space
+798,Guzzlord,Ultra Space
+799,Necrozma,Underground
+800,Magearna,Unknown
+801,Marshadow,Dark areas
+802,Poipole,Ultra Space
+803,Naganadel,Ultra Space
+804,Stakataka,Ultra Space
+805,Blacephalon,Ultra Space
+806,Zeraora,Melemele Island
+807,Meltan,Near metal
+808,Melmetal,Unknown
+809,Grookey,Galarian jungles
+810,Thwackey,Galarian jungles
+811,Rillaboom,Galarian jungles
+812,Scorbunny,Galarian grasslands
+813,Raboot,Galarian grasslands
+814,Cinderace,Galarian grasslands
+815,Sobble,Galarian ponds
+816,Drizzile,Galarian ponds
+817,Inteleon,Galarian ponds
+818,Skwovet,"Woodlands, temperate and boreal forests, orchards"
+819,Greedent,"Woodlands, temperate and boreal forests, orchards"
+820,Rookidee,"Forests, woodlands, wetlands, badlands"
+821,Corvisquire,"Forests, woodlands, wetlands, badlands"
+822,Corviknight,"Forests, woodlands, wetlands, cities"
+823,Blipbug,"Fields, gardens, forests"
+824,Dottler,"Fields, gardens, forests"
+825,Orbeetle,"Fields, gardens, forests"
+826,Nickit,"Forests, woodlands, fields"
+827,Thievul,"Forests, woodlands, and fields"
+828,Gossifleur,Fields and meadows
+829,Eldegoss,Fields and meadows
+830,Wooloo,"Pastures, farms, fields, grasslands"
+831,Dubwool,"Pastures, farms, fields, grasslands"
+832,Chewtle,"Ponds and rivers, swamps"
+833,Drednaw,"Ponds and rivers, swamps"
+834,Yamper,"Fields and grasslands, pastures and farms"
+835,Boltund,"Fields and grasslands, pastures and farms"
+836,Rolycoly,"Coal mines, mountains, volcanoes"
+837,Carkol,"Coal mines, mountains, volcanoes"
+838,Coalossal,"Coal mines, mountains, volcanoes"
+839,Applin,"Forests, orchards"
+840,Flapple,"Forests, orchards"
+841,Appletun,"Forests, orchards"
+842,Silicobra,Deserts
+843,Sandaconda,Deserts
+844,Cramorant,"Beaches, seaside cliffs, temperate to polar seas"
+845,Arrokuda,"Open ocean, reefs, lakes, rivers"
+846,Barraskewda,"Open oceans, reefs, lakes, rivers"
+847,Toxel,"Badlands, grasslands, swamps"
+848,Toxtricity,"Badlands, grasslands, swamps"
+849,Sizzlipede,"Mountains, volcanoes"
+850,Centiskorch,"Mountains, volcanoes"
+851,Clobbopus,"Beaches, cool and polar seas"
+852,Grapploct,"Beaches, cool and polar seas"
+853,Sinistea,"Cities, ruins"
+854,Polteageist,"Cities, ruins"
+855,Hatenna,Woodlands
+856,Hattrem,Woodlands
+857,Hatterene,Woodlands
+858,Impidimp,"Woodlands, urban outskirts"
+859,Morgrem,"Woodlands, urban outskirts"
+860,Grimmsnarl,"Woodlands, urban outskirts"
+861,Obstagoon,"Forests, grasslands, fields"
+862,Perrserker,"Riversides, polar beaches, boreal forests, glaciers"
+863,Cursola,"Raised sea basins, polluted reefs and trenches"
+864,Sirfetch'd,Forests and grasslands near water
+865,Mr. Rime,"Urban and suburban areas, glaciers, boreal forests"
+866,Runerigus,Ruins
+867,Milcery,"Fields, cities"
+868,Alcremie,"Cities, fields"
+869,Falinks,"Badlands, canyons, mountains, ruins"
+870,Pincurchin,"Tide pools, reefs, sea floors"
+871,Snom,"Boreal forests, tundras, icy mountains"
+872,Frosmoth,"Boreal forests, tundras, icy mountains"
+873,Stonjourner,"Ruins, grasslands"
+874,Eiscue,Polar seas
+875,Indeedee,"Cities, forests"
+876,Morpeko,"Grasslands, fields"
+877,Cufant,"Riversides, jungles, savannas"
+878,Copperajah,"Riversides, jungles, savannas"
+879,Dracozolt,Unknown
+880,Arctozolt,Unknown
+881,Dracovish,Unknown
+882,Arctovish,Unknown
+883,Duraludon,"Caves, mountains"
+884,Dreepy,"Lakes, lakesides, raised sea basins, beaches"
+885,Drakloak,"Lakes, lakesides, raised sea basins, beaches"
+886,Dragapult,"Lakes, lakesides, raised sea basins, beaches"
+887,Zacian,Woodlands
+888,Zamazenta,Woodlands
+889,Eternatus,Unknown
+890,Kubfu,"Mountains, dojos"
+891,Urshifu,"Mountains, dojos"
+892,Zarude,Dense jungles
+893,Regieleki,"Caves, ruins"
+894,Regidrago,"Caves, ruins"
+895,Glastrier,"Tundras, badlands"
+896,Spectrier,"Tundras, badlands"
+897,Calyrex,Galar
+898,Wyrdeer,Boreal and alpine forests
+899,Kleavor,"Forests, woodlands, rocky areas"
+900,Ursaluna,"Peatlands, boreal wetlands"
+901,Basculegion,"Rivers, lakes, waterfalls"
+902,Sneasler,"Highlands, mountains, boreal forests"
+903,Overqwil,"Open ocean, trenches"
+904,Enamorus,Hisui
+905,Sprigatito,"Paldean fields, forests, and woodlands"
+906,Floragato,"Paldean fields, forests, and woodlands"
+907,Meowscarada,"Paldean fields, forests, and woodlands"
+908,Fuecoco,Paldean volcanoes and deserts
+909,Crocalor,Paldean volcanoes and deserts
+910,Skeledirge,Paldean volcanoes and deserts
+911,Quaxly,"Paldean ponds, lakes, and rivers"
+912,Quaxwell,"Paldean ponds, lakes, and rivers"
+913,Quaquaval,"Paldean ponds, lakes, and rivers"
+914,Lechonk,"Grasslands, mountainsides, farms"
+915,Oinkologne,"Grasslands, mountainsides, farms"
+916,Tarountula,Trees in forests and woodlands
+917,Spidops,Trees in forests and woodlands
+918,Nymble,"Woodlands, chaparrals"
+919,Lokix,"Woodlands, chaparrals"
+920,Pawmi,"Forests, fields, power plants"
+921,Pawmo,"Forests, fields, power plants"
+922,Pawmot,"Forests, fields, power plants"
+923,Tandemaus,"Fields, forests, urban areas"
+924,Maushold,"Fields, forests, urban areas"
+925,Fidough,"Urban areas, meadows"
+926,Daschsbun,"Urban areas, meadows"
+927,Smoliv,"Grasslands and chaparrals, farms"
+928,Dolliv,"Grasslands and chaparrals, farms"
+929,Arboliva,"Grasslands and chaparrals, mountains, farms"
+930,Squawkabilly,"Rainforests, urban areas"
+931,Nacli,"Caves, mountains, salt lakes, beaches"
+932,Naclstack,"Caves, mountains, salt lakes, beaches"
+933,Garganacl,"Caves, mountains, salt lakes, beaches"
+934,Charcadet,"Volcanoes, ruins"
+935,Armarouge,"Volcanoes, ruins"
+936,Ceruledge,"Volcanoes, ruins"
+937,Tadbulb,"Ponds, rivers, wetlands, hydroelectric plants"
+938,Bellibolt,"Ponds, rivers, wetlands, hydroelectric plants"
+939,Wattrel,Coastal cliffs
+940,Kilowattrel,Coastal cliffs
+941,Maschiff,"Forests, urban areas"
+942,Mabosstiff,"Forests, urban areas"
+943,Shroodle,"Forests, jungles, and woodlands"
+944,Grafaiai,"Forests, jungles, and woodlands"
+945,Bramblin,"Deserts, wastelands"
+946,Brambleghast,"Deserts, wastelands"
+947,Toedscool,"Woodlands, damp forests"
+948,Toedscruel,"Woodlands, damp forests"
+949,Klawf,"Canyons, cliffs, and badlands"
+950,Capsakid,"Deserts, badlands"
+951,Scovillain,"Deserts, badlands"
+952,Rellor,Deserts
+953,Rabsca,Deserts
+954,Flittle,"Deserts, wastelands, savannas"
+955,Espathra,"Deserts, wastelands, savannas"
+956,Tinkatink,"Ruins, mountains"
+957,Tinkatuff,"Ruins, mountains"
+958,Tinkaton,"Ruins, mountains"
+959,Wiglett,"Beaches, reefs"
+960,Wugtrio,"Beaches, reefs"
+961,Bombirdier,"Beaches, riversides, mountains"
+962,Finizen,"Open ocean, reefs"
+963,Palafin,"Open ocean, reefs"
+964,Varoom,"Urban outskirts, industrial areas"
+965,Revavroom,"Urban outskirts, industrial areas"
+966,Cyclizar,"Grasslands, plains, urban areas"
+967,Orthworm,"Deserts, caves"
+968,Glimmet,Caves
+969,Glimmora,Caves
+970,Greavard,"Graveyards, forests, mountains"
+971,Houndstone,"Graveyards, forests, mountains"
+972,Flamigo,Wetlands
+973,Cetoddle,Glaciers
+974,Cetitan,Glaciers
+975,Veluza,"Open ocean, lakes"
+976,Dondozo,Large lakes
+977,Tatsugiri,"Large lakes, lakeshores"
+978,Annihilape,"Forests, jungles, mountains"
+979,Clodsire,"Wetlands, ponds"
+980,Farigiraf,"Plains, savannas, near mountains and water"
+981,Dudunsparce,Caves
+982,Kingambit,"Badlands, highlands, near rivers"
+983,Great Tusk,Area Zero
+984,Scream Tail,Area Zero
+985,Brute Bonnet,Area Zero
+986,Flutter Mane,Area Zero
+987,Slither Wing,Area Zero
+988,Sandy Shocks,Area Zero
+989,Iron Treads,Area Zero
+990,Iron Bundle,Area Zero
+991,Iron Hands,Area Zero
+992,Iron Jugulis,Area Zero
+993,Iron Moth,Area Zero
+994,Iron Thorns,Area Zero
+995,Frigibax,"Snow-packed caves, boreal forests"
+996,Arctibax,"Snow-packed caves, boreal forests"
+997,Baxcalibur,"Snow-packed caves, boreal forests"
+998,Gimmighoul,Ruins
+999,Gholdengo,Ruins
+1000,Wo-Chien,Ruins
+1001,Chien-Pao,Ruins
+1002,Ting-Lu,Ruins
+1003,Chi-Yu,Ruins
+1004,Roaring Moon,Area Zero
+1005,Iron Valiant,Area Zero
+1006,Koraidon,Anywhere
+1007,Miraidon,Anywhere

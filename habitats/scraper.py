@@ -5,7 +5,7 @@ from requests_html import HTMLSession
 data = []
 session = HTMLSession()
 print("Scraping...")
-for i in range(0, 1009):
+for i in range(1, 1009):
     result = session.get(f"https://www.theworldofpokemon.com/entryPages/entryPage_{i}.html")
     result.html.render()
     species = result.html.find("#entry-name", first=True).text
