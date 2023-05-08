@@ -11,7 +11,7 @@ def get_gen(num):
 
 df = pd.read_json("dex/pokedex.json", orient="index")
 # print(df.columns)
-df = df[["num", "name", "types", "genderRatio", "baseStats", "abilities", "heightm", "weightkg", "color", "evos", "eggGroups", "tier", "prevo", "evoLevel", "forme", "gender", "evoItem", "evoCondition", "evoMove", "tags"]]
+# df = df[["num", "name", "types", "genderRatio", "baseStats", "abilities", "heightm", "weightkg", "color", "evos", "eggGroups", "tier", "prevo", "evoLevel", "forme", "gender", "evoItem", "evoCondition", "evoMove", "tags"]]
 df = df.join(pd.DataFrame(df.types.tolist(), index=df.index).stack().str.get_dummies().groupby(level=0).sum())
 df = df.join(pd.DataFrame(df.eggGroups.tolist(), index=df.index).stack().str.get_dummies().groupby(level=0).sum().add_prefix("eggGroup_"))
 df = df.join(pd.json_normalize(df.genderRatio).set_index(df.index))
