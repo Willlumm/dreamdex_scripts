@@ -1,0 +1,1545 @@
+﻿Species,Biome
+GENERATION 1:,
+Bulbasaur,Grassland
+Ivysaur,Grassland
+Venusaur - M,Grassland
+Venusaur - F,Grassland
+Venusaur - Mega,
+Venusaur - Gmax,
+Charmander,Mountain
+Charmeleon,Mountain
+Charizard,Mountain
+Charizard - Mega X,
+Charizard - Mega Y,
+Charizard - Gmax,
+Squirtle,Waters-edge
+Wartortle,Waters-edge
+Blastoise,Waters-edge
+Blastoise - Mega,
+Blastoise - Gmax,
+Caterpie,Forest
+Metapod,Forest
+Butterfree - M,Forest
+Butterfree - F,Forest
+Butterfree - Gmax,
+Weedle,Forest
+Kakuna,Forest
+Beedrill,Forest
+Beedrill - Mega,
+Pidgey,Forest
+Pidgeotto,Forest
+Pidgeot,Forest
+Pidgeot - Mega,
+Rattata - M,Grassland
+Rattata - F,Grassland
+Raticate - M,Grassland
+Raticate - F,Grassland
+Spearow,Rough-terrain
+Fearow,Rough-terrain
+Ekans,Grassland
+Arbok,Grassland
+Pikachu - M,Forest
+Pikachu - F,Forest
+Pikachu - Original Cap,
+Pikachu - Hoenn Cap,
+Pikachu - Sinnoh Cap,
+Pikachu - Unova Cap,
+Pikachu - Kalos Cap,
+Pikachu - Alola Cap,
+Pikachu - Partner Cap,
+Pikachu - World Cap,
+Pikachu - Gmax,
+"Pikachu - M, Partner",
+"Pikachu - F, Partner",
+Pikachu - Cosplay,
+Pikachu - Rock Star,
+Pikachu - Belle,
+Pikachu - Pop Star,
+Pikachu - Ph.D,
+Pikachu - Libre,
+Raichu - M,Forest
+Raichu - F,Forest
+Sandshrew,Rough-terrain
+Sandslash,Rough-terrain
+Nidoran - F,Grassland
+Nidorina,Grassland
+Nidoqueen,Grassland
+Nidoran - M,Grassland
+Nidorino,Grassland
+Nidoking,Grassland
+Clefairy,Mountain
+Clefable,Mountain
+Vulpix,Grassland
+Ninetales,Grassland
+Jigglypuff,Grassland
+Wigglytuff,Grassland
+Zubat - M,Cave
+Zubat - F,Cave
+Golbat - M,Cave
+Golbat - F,Cave
+Oddish,Grassland
+Gloom - M,Grassland
+Gloom - F,Grassland
+Vileplume - M,Grassland
+Vileplume - F,Grassland
+Paras,Forest
+Parasect,Forest
+Venonat,Forest
+Venomoth,Forest
+Diglett,Cave
+Dugtrio,Cave
+Meowth,Urban
+Meowth - Gmax,
+Persian,Urban
+Psyduck,Waters-edge
+Golduck,Waters-edge
+Mankey,Mountain
+Primeape,Mountain
+Growlithe,Grassland
+Arcanine,Grassland
+Poliwag,Waters-edge
+Poliwhirl,Waters-edge
+Poliwrath,Waters-edge
+Abra,Urban
+Kadabra - M,Urban
+Kadabra - F,Urban
+Alakazam - M,Urban
+Alakazam - F,Urban
+Alakazam - Mega,
+Machop,Mountain
+Machoke,Mountain
+Machamp,Mountain
+Machamp - Gmax,
+Bellsprout,Forest
+Weepinbell,Forest
+Victreebel,Forest
+Tentacool,Sea
+Tentacruel,Sea
+Geodude,Mountain
+Graveler,Mountain
+Golem,Mountain
+Ponyta,Grassland
+Rapidash,Grassland
+Slowpoke,Waters-edge
+Slowbro,Waters-edge
+Slowbro - Mega,
+Magnemite,Rough-terrain
+Magneton,Rough-terrain
+Farfetch’d,Grassland
+Doduo - M,Grassland
+Doduo - F,Grassland
+Dodrio - M,Grassland
+Dodrio - F,Grassland
+Seel,Sea
+Dewgong,Sea
+Grimer,Urban
+Muk,Urban
+Shellder,Sea
+Cloyster,Sea
+Gastly,Cave
+Haunter,Cave
+Gengar,Cave
+Gengar - Mega,
+Gengar - Gmax,
+Onix,Cave
+Drowzee,Grassland
+Hypno - M,Grassland
+Hypno - F,Grassland
+Krabby,Waters-edge
+Kingler,Waters-edge
+Kingler - Gmax,
+Voltorb,Urban
+Electrode,Urban
+Exeggcute,Forest
+Exeggutor,Forest
+Cubone,Mountain
+Marowak,Mountain
+Hitmonlee,Urban
+Hitmonchan,Urban
+Lickitung,Grassland
+Koffing,Urban
+Weezing,Urban
+Rhyhorn - M,Rough-terrain
+Rhyhorn - F,Rough-terrain
+Rhydon - M,Rough-terrain
+Rhydon - F,Rough-terrain
+Chansey,Urban
+Tangela,Grassland
+Kangaskhan,Grassland
+Kangaskhan - Mega,
+Horsea,Sea
+Seadra,Sea
+Goldeen - M,Waters-edge
+Goldeen - F,Waters-edge
+Seaking - M,Waters-edge
+Seaking - F,Waters-edge
+Staryu,Sea
+Starmie,Sea
+Mr. Mime,Urban
+Scyther - M,Grassland
+Scyther - F,Grassland
+Jynx,Urban
+Electabuzz,Grassland
+Magmar,Mountain
+Pinsir,Forest
+Pinsir - Mega,
+Tauros,Grassland
+Magikarp - M,Waters-edge
+Magikarp - F,Waters-edge
+Gyarados - M,Waters-edge
+Gyarados - F,Waters-edge
+Gyarados - Mega,
+Lapras,Sea
+Lapras - Gmax,
+Ditto,Urban
+Eevee - M,Urban
+Eevee - F,Urban
+Eevee - Gmax,
+"Eevee - M, Partner",Urban
+"Eevee - F, Partner",Urban
+Vaporean,Urban
+Jolteon,Urban
+Flareon,Urban
+Porygon,Urban
+Omanyte,Sea
+Omastar,Sea
+Kabuto,Sea
+Kabutops,Sea
+Aerodactyl,Mountain
+Aerodactyl - Mega,
+Snorlax,Mountain
+Snorlax - Gmax,
+Articuno,Rare
+Zapdos,Rare
+Moltres,Rare
+Dratini,Waters-edge
+Dragonair,Waters-edge
+Dragonite,Waters-edge
+Mewtwo,Rare
+Mewtwo - Mega X,
+Mewtwo - Mega Y,
+Mew,Rare
+GENERATION 2:,
+Chikorita,Grassland
+Bayleef,Grassland
+Meganium - M,Grassland
+Meganium - F,Grassland
+Cyndaquil,Grassland
+Quilava,Grassland
+Typhlosion,Grassland
+Totodile,Waters-edge
+Croconaw,Waters-edge
+Feraligatr,Waters-edge
+Sentret,Grassland
+Furret,Grassland
+Hoothoot,Forest
+Noctowl,Forest
+Ledyba - M,Forest
+Ledyba - F,Forest
+Ledian - M,Forest
+Ledian - F,Forest
+Spinarak,Forest
+Ariados,Forest
+Crobat,Cave
+Chinchou,Sea
+Lanturn,Sea
+Pichu,Forest
+Pichu - Spiky Ear (Female Only),Forest
+Pichu - Pikachu Colored (Shiny),
+Cleffa,Mountain
+Igglybuff,Grassland
+Togepi,Forest
+Togetic,Forest
+Natu,Forest
+Xatu M,Forest
+Xatu F,Forest
+Mareep,Grassland
+Flaaffy,Grassland
+Ampharos,Grassland
+Ampharos - Mega,
+Bellossom,Grassland
+Marill,Waters-edge
+Azumarill,Waters-edge
+Sudowoodo - M,Forest
+Sudowoodo - F,Forest
+Politoed - M,Waters-edge
+Politoed - F,Waters-edge
+Hoppip,Grassland
+Skiploom,Grassland
+Jumpluff,Grassland
+Aipom - M,Forest
+Aipom - F,Forest
+Sunkern,Grassland
+Sunflora,Grassland
+Yanma,Forest
+Wooper - M,Waters-edge
+Wooper - F,Waters-edge
+Quagsire - M,Waters-edge
+Quagsire - F,Waters-edge
+Espeon,Urban
+Umbreon,Urban
+Murkrow - M,Forest
+Murkrow - F,Forest
+Slowking,Waters-edge
+Misdreavus,Cave
+Unown - A,Rare
+Unown - B,Rare
+Unown - C,Rare
+Unown - D,Rare
+Unown - E,Rare
+Unown - F,Rare
+Unown - G,Rare
+Unown - H,Rare
+Unown - I,Rare
+Unown - J,Rare
+Unown - K,Rare
+Unown - L,Rare
+Unown - M,Rare
+Unown - N,Rare
+Unown - O,Rare
+Unown - P,Rare
+Unown - Q,Rare
+Unown - R,Rare
+Unown - S,Rare
+Unown - T,Rare
+Unown - U,Rare
+Unown - V,Rare
+Unown - W,Rare
+Unown - X,Rare
+Unown - Y,Rare
+Unown - Z,Rare
+Unown - !,Rare
+Unown - ?,Rare
+Wobbuffet - M,Cave
+Wobbuffet - F,Cave
+Girafarig - M,Grassland
+Girafarig - F,Grassland
+Pineco,Forest
+Forretress,Forest
+Dunsparce,Cave
+Gligar - M,Mountain
+Gligar - F,Mountain
+Steelix - M,Cave
+Steelix - F,Cave
+Steelix - Mega,
+Snubbull,Urban
+Granbull,Urban
+Qwilfish,Sea
+Scizor - M,Grassland
+Scizor - F,Grassland
+Scizor - Mega,
+Shuckle,Mountain
+Heracross - M,Forest
+Heracross - F,Forest
+Heracross - Mega,
+Sneasel - M,Forest
+Sneasel - F,Forest
+Teddiursa,Mountain
+Ursaring - M,Mountain
+Ursaring - F,Mountain
+Slugma,Mountain
+Magcargo,Mountain
+Swinub,Cave
+Piloswine - M,Cave
+Piloswine - F,Cave
+Corsola,Sea
+Remoraid,Sea
+Octillery - M,Sea
+Octillery - F,Sea
+Delibird,Mountain
+Mantine,Sea
+Skarmory,Rough-terrain
+Houndour,Rough-terrain
+Houndoom - M,Rough-terrain
+Houndoom - F,Rough-terrain
+Houndoom - Mega,
+Kingdra,Sea
+Phanpy,Rough-terrain
+Donphan - M,Rough-terrain
+Donphan - F,Rough-terrain
+Porygon 2,Urban
+Stantler,Forest
+Smeargle,Urban
+Tyrogue,Urban
+Hitmontop,Urban
+Smoochum,Urban
+Elekid,Grassland
+Magby,Mountain
+Miltank,Grassland
+Blissey,Urban
+Raikou,Grassland
+Entei,Grassland
+Suicune,Grassland
+Larvitar,Mountain
+Pupitar,Mountain
+Tyranitar,Mountain
+Tyranitar - Mega,
+Lugia,Rare
+Ho-Oh,Rare
+Celebi,Forest
+GENERATION 3:,
+Treecko,Forest
+Grovyle,Forest
+Sceptile,Forest
+Sceptile - Mega,
+Torchic - M,Grassland
+Torchic - F,Grassland
+Combusken - M,Grassland
+Combusken - F,Grassland
+Blaziken - M,Grassland
+Blaziken - F,Grassland
+Blaziken - Mega,
+Mudkip,Waters-edge
+Marshtomp,Waters-edge
+Swampert,Waters-edge
+Swampert - Mega,
+Poochyena,Grassland
+Mightyena,Grassland
+Zigzagoon,Grassland
+Linoone,Grassland
+Wurmple,Forest
+Silcoon,Forest
+Beautifly - M,Forest
+Beautifly - F,Forest
+Cascoon,Forest
+Dustox - M,Forest
+Dustox - F,Forest
+Lotad,Waters-edge
+Lombre,Waters-edge
+Ludicolo - M,Waters-edge
+Ludicolo - F,Waters-edge
+Seedot,Forest
+Nuzleaf - M,Forest
+Nuzleaf - F,Forest
+Shiftry - M,Forest
+Shiftry - F,Forest
+Taillow,Grassland
+Swellow,Grassland
+Wingull,Sea
+Pelipper,Sea
+Ralts,Urban
+Kirlia,Urban
+Gardevoir,Urban
+Gardevoir - Mega,
+Surskit,Waters-edge
+Masquerain,Waters-edge
+Shroomish,Forest
+Breloom,Forest
+Slakoth,Forest
+Vigoroth,Forest
+Slaking,Forest
+Nincada,Forest
+Ninjask,Forest
+Shedinja,Forest
+Whismur,Cave
+Loudred,Cave
+Exploud,Cave
+Makuhita,Mountain
+Hariyama,Mountain
+Azurill,Waters-edge
+Nosepass,Cave
+Skitty,Forest
+Delcatty,Forest
+Sableye,Cave
+Sableye - Mega,
+Mawile,Cave
+Mawile - Mega,
+Aron,Mountain
+Lairon,Mountain
+Aggron,Mountain
+Aggron - Mega,
+Meditite - M,Mountain
+Meditite - F,Mountain
+Medicham - M,Mountain
+Medicham - F,Mountain
+Medicham - Mega,
+Electrike,Grassland
+Manectric,Grassland
+Manectric - Mega,
+Plusle,Grassland
+Minun,Grassland
+Volbeat,Forest
+Illumise,Forest
+Roselia - M,Grassland
+Roselia - F,Grassland
+Gulpin - M,Grassland
+Gulpin - F,Grassland
+Swalot - M,Grassland
+Swalot - F,Grassland
+Carvanha,Sea
+Sharpedo,Sea
+Sharpedo - Mega,
+Wailmer,Sea
+Wailord,Sea
+Numel - M,Mountain
+Numel - F,Mountain
+Camerupt - M,Mountain
+Camerupt - F,Mountain
+Camerupt - Mega,
+Torkoal,Mountain
+Spoink,Mountain
+Grumpig,Mountain
+Spinda,Mountain
+Trapinch,Rough-terrain
+Vibrava,Rough-terrain
+Flygon,Rough-terrain
+Cacnea,Rough-terrain
+Cacturne - M,Rough-terrain
+Cacturne - F,Rough-terrain
+Swablu,Forest
+Altaria,Forest
+Altaria - Mega,
+Zangoose,Grassland
+Seviper,Grassland
+Lunatone,Cave
+Solrock,Cave
+Barboach,Waters-edge
+Whiscash,Waters-edge
+Corphish,Waters-edge
+Crawdaunt,Waters-edge
+Baltoy,Rough-terrain
+Claydol,Rough-terrain
+Lileep,Sea
+Cradily,Sea
+Anorith,Waters-edge
+Armaldo,Waters-edge
+Feebas,Waters-edge
+Milotic - M,Waters-edge
+Milotic - F,Waters-edge
+Castform,Grassland
+Castform - Sunny,
+Castform - Rainy,
+Castform - Snowy,
+Kecleon,Forest
+Shuppet,Urban
+Banette,Urban
+Banette - Mega,
+Duskull,Forest
+Dusclops,Forest
+Tropius,Forest
+Chimecho,Grassland
+Absol,Mountain
+Absol - Mega,
+Wynaut,Cave
+Snorunt,Cave
+Glalie,Cave
+Glalie - Mega,
+Spheal,Sea
+Sealeo,Sea
+Walrein,Sea
+Clamperl,Sea
+Huntail,Sea
+Gorebyss,Sea
+Relicanth - M,Sea
+Relicanth - F,Sea
+Luvdisc,Sea
+Bagon,Rough-terrain
+Shelgon,Rough-terrain
+Salamence,Rough-terrain
+Salamence - Mega,
+Beldum,Rough-terrain
+Metang,Rough-terrain
+Metagross,Rough-terrain
+Metagross - Mega,
+Regirock,Cave
+Regice,Cave
+Registeel,Cave
+Latias,Waters-edge
+Latias - Mega,
+Latios,Waters-edge
+Latios - Mega,
+Kyogre,Sea
+Kyogre - Primal,
+Groudon,Rough-terrain
+Groudon - Primal,
+Rayquaza,Rare
+Rayquaza - Mega,
+Jirachi,Mountain
+Deoxys - Normal,Rare
+Deoxys - Attack,Rare
+Deoxys - Defense,Rare
+Deoxys - Speed,Rare
+GENERATION 4:,
+Turtwig,
+Grotle,
+Torterra,
+Chimchar,
+Monferno,
+Infernape,
+Piplup,
+Prinplup,
+Empoleon,
+Starly - M,
+Starly - F,
+Staravia - M,
+Staravia - F,
+Staraptor - M,
+Staraptor - F,
+Bidoof - M,
+Bidoof - F,
+Bibarel - M,
+Bibarel - F,
+Kricketot - M,
+Kricketot - F,
+Kricketune - M,
+Kricketune - F,
+Shinx - M,
+Shinx - F,
+Luxio - M,
+Luxio - F,
+Luxray - M,
+Luxray - F,
+Budew,
+Roserade - M,
+Roserade - F,
+Cranidos,
+Rampardos,
+Shieldon,
+Bastiodon,
+Burmy - Plant Cloak,
+Burmy - Sandy Cloak,
+Burmy - Trash Cloak,
+Wormadam - Plant Cloak,
+Wormadam - Sandy Cloak,
+Wormadam - Trash Cloak,
+Mothim,
+Combee - M,
+Combee - F,
+Vespiquen,
+Pachirisu -M,
+Pachirisu - F,
+Buizel - M,
+Buizel - F,
+Floatzel - M,
+Floatzel - F,
+Cherubi,
+Cherrim - Overcast,
+Cherrim - Sunshine,
+Shellos - West Sea,
+Shellos - East Sea,
+Gastrodon - West Sea,
+Gastrodon - East Sea,
+Ambipom - M,
+Ambipom - F,
+Drifloon,
+Drifblim,
+Buneary,
+Lopunny,
+Lopunny - Mega,
+Mismagius,
+Honchkrow,
+Glameow,
+Purugly,
+Chingling,
+Stunky,
+Skuntank,
+Bronzor,
+Bronzong,
+Bonsly,
+Mime Jr.,
+Happiny,
+Chatot,
+Spiritomb,
+Gible - M,
+Gible - F,
+Gabite - M,
+Gabite - F,
+Garchomp - M,
+Garchomp - F,
+Garchomp - Mega,
+Munchlax,
+Riolu,
+Lucario,
+Lucario - Mega,
+Hippopotas - M,
+Hippopotas - F,
+Hippowdon - M,
+Hippowdon - F,
+Skorupi,
+Drapion,
+Croagunk - M,
+Croagunk - F,
+Toxicroak - M,
+Toxicroak - F,
+Carnivine,
+Finneon - M,
+Finneon - F,
+Lumineon - M,
+Lumineon - F,
+Mantyke,
+Snover - M,
+Snover - F,
+Abomasnow - M,
+Abomasnow - F,
+Abomasnow - Mega,
+Weavile - M,
+Weavile - F,
+Magnezone,
+Lickilicky,
+Rhyperior - M,
+Rhyperior - F,
+Tangrowth - M,
+Tangrowth - F,
+Electivire,
+Magmortar,
+Togekiss,
+Yanmega,
+Leafeon,
+Glaceon,
+Gliscor,
+Mamoswine - M,
+Mamoswine - F,
+Porygon Z,
+Gallade,
+Gallade - Mega,
+Probopass,
+Dusknoir,
+Froslass,
+Rotom,
+Rotom - Heat,
+Rotom - Wash,
+Rotom - Frost,
+Rotom - Fan,
+Rotom - Mow,
+Uxie,
+Mesprit,
+Azelf,
+Dialga,
+Dialga - Origin,
+Palkia,
+Palkia - Origin,
+Heatran,
+Regigigas,
+Giratina,
+Giratina - Altered,
+Cresselia,
+Phione,
+Manaphy,
+Darkrai,
+Shaymin - Land,
+Shaymin - Sky,
+Arceus - Normal,
+Arceus - Fire,
+Arceus - Water,
+Arceus - Electric,
+Arceus - Grass,
+Arceus - Ice,
+Arceus - Fighting,
+Arceus - Poison,
+Arceus - Ground,
+Arceus - Flying,
+Arceus - Psychic,
+Arceus - Bug,
+Arceus - Rock,
+Arceus - Ghost,
+Arceus - Dragon,
+Arceus - Dark,
+Arceus - Steel,
+Arceus - Fairy,
+GENERATION 5:,
+Victini,
+Snivy,
+Servine,
+Serperior,
+Tepig,
+Pignite,
+Emboar,
+Oshawott,
+Dewott,
+Samurott,
+Patrat,
+Watchog,
+Lillipup,
+Herdier,
+Stoutland,
+Purrloin,
+Liepard,
+Pansage,
+Simisage,
+Pansear,
+Simisear,
+Panpour,
+Simipour,
+Munna,
+Musharna,
+Pidove,
+Tranquill,
+Unfezant - M,
+Unfezant - F,
+Blitzle,
+Zebstrika,
+Roggenrola,
+Boldore,
+Gigalith,
+Woobat,
+Swoobat,
+Drilbur,
+Excadrill,
+Audino,
+Audino - Mega,
+Timburr,
+Gurdurr,
+Conkeldurr,
+Tympole,
+Palpitoad,
+Seismitoad,
+Throh,
+Sawk,
+Sewaddle,
+Swadloon,
+Leavanny,
+Venipede,
+Whirlipede,
+Scolipede,
+Cottonee,
+Whimsicott,
+Petilil,
+Lilligant,
+Basculin - Red Stripe,
+Basculin - Blue Stripe,
+Basculin - White Stripe,
+Sandile,
+Krokorok,
+Krookodile,
+Darumaka,
+Darmanitan,
+Darmanitan - Zen Mode,
+Maractus,
+Dwebble,
+Crustle,
+Scraggy,
+Scrafty,
+Sigilyph,
+Yamask,
+Cofagrigus,
+Tirtouga,
+Carracosta,
+Archen,
+Archeops,
+Trubbish,
+Garbodor,
+Garbodor - Gmax,
+Zorua,
+Zoroark,
+Minccino,
+Cinccino,
+Gothita,
+Gothorita,
+Gothitelle,
+Solosis,
+Duosion,
+Reuniclus,
+Ducklett,
+Swanna,
+Vanillite,
+Vanillish,
+Vanilluxe,
+Deerling - Spring,
+Deerling - Summer,
+Deerling - Autumn,
+Deerling - Winter,
+Sawsbuck - Spring,
+Sawsbuck - Summer,
+Sawsbuck - Autumn,
+Sawsbuck - Winter,
+Emolga,
+Karrablast,
+Escavalier,
+Foongus,
+Amoonguss,
+Frillish - M,
+Frillish - F,
+Jellicent - M,
+Jellicent - F,
+Alomomola,
+Joltik,
+Galvantula,
+Ferroseed,
+Ferrothorn,
+Klink,
+Klang,
+Klinklang,
+Tynamo,
+Eelektrik,
+Eelektross,
+Elgyem,
+Beheeyem,
+Litwick,
+Lampent,
+Chandelure,
+Axew,
+Fraxure,
+Haxorus,
+Cubchoo,
+Beartic,
+Cryogonal,
+Shelmet,
+Accelgor,
+Stunfisk,
+Mienfoo,
+Mienshao,
+Druddigon,
+Golett,
+Golurk,
+Pawniard,
+Bisharp,
+Bouffalant,
+Rufflet,
+Braviary,
+Vullaby,
+Mandibuzz,
+Heatmor,
+Durant,
+Deino,
+Zweilous,
+Hydreigon,
+Larvesta,
+Volcarona,
+Cobalion,
+Terrakion,
+Virizion,
+Tornadus - Incarnate,
+Tornadus - Therian,
+Thundurus - Incarnate,
+Thundurus - Therian,
+Reshiram,
+Zekrom,
+Landorus - Incarnate,
+Landorus - Therian,
+Kyurem,
+Kyurem - White,
+Kyurem - Black,
+Keldeo - Ordinary Form,
+Keldeo - Resolute Form,
+Meloetta - Aria Forme,
+Meloetta - Pirouette Forme,
+Genesect,
+Genesect - Douse Drive,
+Genesect - Shock Drive,
+Genesect - Burn Drive,
+Genesect - Chill Drive,
+GENERATION 6:,
+Rattata - Alolan,
+Raticate - Alolan,
+Raichu - Alolan,
+Sandshrew - Alolan,
+Sandslash - Alolan,
+Vulpix - Alolan,
+Ninetales - Alolan,
+Diglett - Alolan,
+Dugtrio - Alolan,
+Meowth - Alolan,
+Persian - Alolan,
+Geodude - Alolan,
+Graveler - Alolan,
+Golem - Alolan,
+Grimer - Alolan,
+Muk - Alolan,
+Exeggutor - Alolan,
+Marowak - Alolan,
+Chespin,
+Quilladin,
+Chesnaught,
+Fennekin,
+Braixen,
+Delphox,
+Froakie,
+Frogadier,
+Greninja,
+Greninja - Ash,
+Bunnelby,
+Diggersby,
+Fletchling,
+Fletchinder,
+Talonflame,
+Scatterbug,
+Spewpa,
+Vivillon - Archipelago,
+Vivillon - Continental,
+Vivillon - Elegant,
+Vivillon - Garden,
+Vivillon - High Plains,
+Vivillon - Icy Snow,
+Vivillon - Jungle,
+Vivillon - Marine,
+Vivillon - Meadow,
+Vivillon - Modern,
+Vivillon - Monsoon,
+Vivillon - Ocean,
+Vivillon - Polar,
+Vivillon - River,
+Vivillon - Sandstorm,
+Vivillon - Savannah,
+Vivillon - Sun,
+Vivillon - Tundra,
+Vivillon - Pokeball,
+Vivillon - Fancy,
+Litleo,
+Pyroar - M,
+Pyroar - F,
+Flabébé - Red Flower,
+Flabébé - Yellow Flower,
+Flabébé - Orange Flower,
+Flabébé - Blue Flower,
+Flabébé - White Flower,
+Floette - Red Flower,
+Floette - Yellow Flower,
+Floette - Orange Flower,
+Floette - Blue Flower,
+Floette - White Flower,
+Florges - Red Flower,
+Florges - Yellow Flower,
+Florges - Orange Flower,
+Florges - Blue Flower,
+Florges - White Flower,
+Skiddo,
+Gogoat,
+Pancham,
+Pangoro,
+Furfrou - Natural,
+Furfrou - Heart,
+Furfrou - Star,
+Furfrou - Diamond,
+Furfrou - Debutante,
+Furfrou - Matron,
+Furfrou - Dandy,
+Furfrou - La Reine,
+Furfrou - Kabuki,
+Furfrou - Pharaoh,
+Espurr,
+Meowstic M,
+Meowstic F,
+Honedge,
+Doublade,
+Aegislash - Blade,
+Aegislash - Shield,
+Spritzee,
+Aromatisse,
+Swirlix,
+Slurpuff,
+Inkay,
+Malamar,
+Binacle,
+Barbaracle,
+Skrelp,
+Dragalge,
+Clauncher,
+Clawitzer,
+Helioptile,
+Heliolisk,
+Tyrunt,
+Tyrantrum,
+Amaura,
+Aurorus,
+Sylveon,
+Hawlucha,
+Dedenne,
+Carbink,
+Goomy,
+Sliggoo,
+Goodra,
+Klefki,
+Phantump,
+Trevenant,
+Pumpkaboo - Small Size,
+Pumpkaboo - Average Size,
+Pumpkaboo - Large Size,
+Pumpkaboo - Super Size,
+Gourgeist - Small Size,
+Gourgeist - Average Size,
+Gourgeist - Large Size,
+Gourgeist - Super Size,
+Bergmite,
+Avalugg,
+Noibat,
+Noivern,
+Xerneas,
+Yveltal,
+Zygarde - 10%,
+Zygarde - 50%,
+Zygarde - Complete,
+Diancie,
+Diancie - Mega,
+Hoopa - Confined,
+Hoopa - Unbound,
+Volcanion,
+GENERATION 7:,
+Rowlet,
+Dartrix,
+Decidueye,
+Litten,
+Torracat,
+Incineroar,
+Popplio,
+Brionne,
+Primarina,
+Pikipek,
+Trumbeak,
+Toucannon,
+Yungoos,
+Gumshoos,
+Grubbin,
+Charjabug,
+Vikavolt,
+Crabrawler,
+Crabominable,
+Oricorio - Baile Style,
+Oricorio - Pom-Pom Style,
+Oricorio - Pa’u Style,
+Oricorio - Sensu Style,
+Cutiefly,
+Ribombee,
+Rockruff,
+Lycanroc - Midday,
+Lycanroc - Midnight,
+Lycanroc - Dusk,
+Wishiwashi - Solo,
+Wishiwashi - School,
+Mareanie,
+Toxapex,
+Mudbray,
+Mudsdale,
+Dewpider,
+Araquanid,
+Fomantis,
+Lurantis,
+Morelull,
+Shiinotic,
+Salandit,
+Salazzle,
+Stufful,
+Bewear,
+Bounsweet,
+Steenee,
+Tsareena,
+Comfey,
+Oranguru,
+Passimian,
+Wimpod,
+Golisopod,
+Sandygast,
+Palossand,
+Pyukumuku,
+Type: Null,
+Silvally - Normal,
+Silvally - Fighting,
+Silvally - Flying,
+Silvally - Poison,
+Silvally - Ground,
+Silvally - Rock,
+Silvally - Bug,
+Silvally - Ghost,
+Silvally - Steel,
+Silvally - Fire,
+Silvally - Water,
+Silvally - Grass,
+Silvally - Electric,
+Silvally - Psychic,
+Silvally - Ice,
+Silvally - Dragon,
+Silvally - Dark,
+Silvally - Fairy,
+Minior - Meteor,
+Minior - Red Core,
+Minior - Orange Core,
+Minior - Yellow Core,
+Minior - Green Core,
+Minior - Blue Core,
+Minior - Indigo Core,
+Minior - Violet Core,
+Komala,
+Turtonator,
+Togedemaru,
+Mimikyu,
+Bruxish,
+Drampa,
+Dhelmise,
+Jangmo-o,
+Hakamo-o,
+Kommo-o,
+Tapu Koko,
+Tapu Lele,
+Tapu Bulu,
+Tapu Fini,
+Cosmog,
+Cosmoem,
+Solgaleo,
+Lunala,
+Nihilego,
+Buzzwole,
+Pheromosa,
+Xurkitree,
+Celesteela,
+Kartana,
+Guzzlord,
+Necrozma,
+Necrozma - Dusk Mane,
+Necrozma - Dawn Wings,
+Necrozma - Ultra,
+Magearna,
+Magearna - Original Color,
+Marshadow,
+Poipole,
+Naganadel,
+Stakataka,
+Blacephalon,
+Zeraora,
+Meltan,
+Melmetal,
+Melmetal - Gmax,
+GENERATION 8:,
+Meowth - Galarian,
+Perrserker,
+Ponyta - Galarian,
+Rapidash - Galarian,
+Farfetch'd - Galarian,
+Sirfetch'd,
+Weezing - Galarian,
+Mr. Mime - Galarian,
+Mr. Rime,
+Corsola - Galarian,
+Cursola,
+Zigzagoon - Galarian,
+Linoone - Galarian,
+Obstagoon,
+Darumaka - Galarian,
+Darmanitan - Galarian,
+"Darmanitan - Galarian, Zen Mode",
+Stunfisk - Galarian,
+Yamask - Galarian,
+Runerigus,
+Slowpoke - Galarian,
+Slowbro - Galarian,
+Slowking - Galarian,
+Articuno - Galarian,
+Zapdos - Galarian,
+Moltres - Galarian,
+Grookey,
+Thwackey,
+Rillaboom,
+Rillaboom - Gmax,
+Scorbunny,
+Raboot,
+Cinderace,
+Cinderace - Gmax,
+Sobble,
+Drizzile,
+Inteleon,
+Inteleon - Gmax,
+Skwovet,
+Greedent,
+Rookidee,
+Corvisquire,
+Corviknight,
+Corviknight - Gmax,
+Blipbug,
+Dottler,
+Orbeetle,
+Orbeetle - Gmax,
+Nickit,
+Thievul,
+Gossifleur,
+Eldegoss,
+Wooloo,
+Dubwool,
+Chewtle,
+Drednaw,
+Drednaw - Gmax,
+Yamper,
+Boltund,
+Rolycoly,
+Carkol,
+Coalossal,
+Coalossal - Gmax,
+Applin,
+Flapple,
+Appletun,
+Flapple/Appletun - Gmax,
+Silicobra,
+Sandaconda,
+Sandaconda - Gmax,
+Cramorant,
+Cramorant - Gulping,
+Cramorant - Gorging,
+Arrokuda,
+Barraskewda,
+Toxel,
+Toxtricity - Low Key,
+Toxtricity - Amped,
+Toxtricity - Gmax,
+Sizzlipede,
+Centiskorch,
+Centiskorch - Gmax,
+Clobbopus,
+Grapploct,
+Sinistea,
+Polteageist - Phony,
+Polteageist - Antique,
+Hatenna,
+Hattrem,
+Hatterene,
+Hatterene - Gmax,
+Impidimp,
+Morgrem,
+Grimmsnarl,
+Grimmsnarl - Gmax,
+Milcery,
+"Alcremie - Strawberry Sweet, Vanilla Cream",
+"Alcremie - Strawberry Sweet, Ruby Cream",
+"Alcremie - Strawberry Sweet, Matcha Cream",
+"Alcremie - Strawberry Sweet, Mint Cream",
+"Alcremie - Strawberry Sweet, Lemon Cream",
+"Alcremie - Strawberry Sweet, Salted Cream",
+"Alcremie - Strawberry Sweet, Ruby Swirl",
+"Alcremie - Strawberry Sweet, Caramel Swirl",
+"Alcremie - Strawberry Sweet, Rainbow Swirl",
+"Alcremie - Berry Sweet, Vanilla Cream",
+"Alcremie - Berry Sweet, Ruby Cream",
+"Alcremie - Berry Sweet, Matcha Cream",
+"Alcremie - Berry Sweet, Mint Cream",
+"Alcremie - Berry Sweet, Lemon Cream",
+"Alcremie - Berry Sweet, Salted Cream",
+"Alcremie - Berry Sweet, Ruby Swirl",
+"Alcremie - Berry Sweet, Caramel Swirl",
+"Alcremie - Berry Sweet, Rainbow Swirl",
+"Alcremie - Love Sweet, Vanilla Cream",
+"Alcremie - Love Sweet, Ruby Cream",
+"Alcremie - Love Sweet, Matcha Cream",
+"Alcremie - Love Sweet, Mint Cream",
+"Alcremie - Love Sweet, Lemon Cream",
+"Alcremie - Love Sweet, Salted Cream",
+"Alcremie - Love Sweet, Ruby Swirl",
+"Alcremie - Love Sweet, Caramel Swirl",
+"Alcremie - Love Sweet, Rainbow Swirl",
+"Alcremie - Star Sweet, Vanilla Cream",
+"Alcremie - Star Sweet, Ruby Cream",
+"Alcremie - Star Sweet, Matcha Cream",
+"Alcremie - Star Sweet, Mint Cream",
+"Alcremie - Star Sweet, Lemon Cream",
+"Alcremie - Star Sweet, Salted Cream",
+"Alcremie - Star Sweet, Ruby Swirl",
+"Alcremie - Star Sweet, Caramel Swirl",
+"Alcremie - Star Sweet, Rainbow Swirl",
+"Alcremie - Clover Sweet, Vanilla Cream",
+"Alcremie - Clover Sweet, Ruby Cream",
+"Alcremie - Clover Sweet, Matcha Cream",
+"Alcremie - Clover Sweet, Mint Cream",
+"Alcremie - Clover Sweet, Lemon Cream",
+"Alcremie - Clover Sweet, Salted Cream",
+"Alcremie - Clover Sweet, Ruby Swirl",
+"Alcremie - Clover Sweet, Caramel Swirl",
+"Alcremie - Clover Sweet, Rainbow Swirl",
+"Alcremie - Flower Sweet, Vanilla Cream",
+"Alcremie - Flower Sweet, Ruby Cream",
+"Alcremie - Flower Sweet, Matcha Cream",
+"Alcremie - Flower Sweet, Mint Cream",
+"Alcremie - Flower Sweet, Lemon Cream",
+"Alcremie - Flower Sweet, Salted Cream",
+"Alcremie - Flower Sweet, Ruby Swirl",
+"Alcremie - Flower Sweet, Caramel Swirl",
+"Alcremie - Flower Sweet, Rainbow Swirl",
+"Alcremie - Ribbon Sweet, Vanilla Cream",
+"Alcremie - Ribbon Sweet, Ruby Cream",
+"Alcremie - Ribbon Sweet, Matcha Cream",
+"Alcremie - Ribbon Sweet, Mint Cream",
+"Alcremie - Ribbon Sweet, Lemon Cream",
+"Alcremie - Ribbon Sweet, Salted Cream",
+"Alcremie - Ribbon Sweet, Ruby Swirl",
+"Alcremie - Ribbon Sweet, Caramel Swirl",
+"Alcremie - Ribbon Sweet, Rainbow Swirl",
+Alcremie - Gmax,
+Falinks,
+Pincurchin,
+Snom,
+Frosmoth,
+Stonjourner,
+Eiscue - Ice Face,
+Eiscue - Noice,
+Indeedee - M,
+Indeedee - F,
+Morpeko - Full Belly,
+Morpeko - Hangry,
+Cufant,
+Copperajah,
+Copperajah - Gmax,
+Dracozolt,
+Arctozolt,
+Dracovish,
+Arctovish,
+Duraludon,
+Duraludon - Gmax,
+Dreepy,
+Drakloak,
+Dragapult,
+Zacian - Hero of Many Battles,
+Zacian - Crowned Sword,
+Zamazenta - Hero of Many Battles,
+Zamazenta - Crowned Shield,
+Eternatus,
+Eternatus - Eternamax,
+Kubfu,
+Urshifu - Single Strike Style,
+Urshifu - Rapid Strike Style,
+Urshifu - Single Strike Style Gmax,
+Urshifu - Rapid Strike Style Gmax,
+Zarude,
+Zarude - Dada,
+Regieleki,
+Regidrago,
+Glastrier,
+Spectrier,
+Calyrex,
+Calyrex - Ice Rider,
+Calyrex - Shadow Rider,
+Growlithe - Hisuian,
+Arcanine - Hisuian,
+Voltorb - Hisuian,
+Electrode - Hisuian,
+Typhlosion - Hisuian,
+Qwilfish - Hisuian,
+Overqwil,
+Sneasel M - Hisuian,
+Sneasel F - Hisuian,
+Sneasler,
+Samurott - Hisuian,
+Lilligant - Hisuian,
+"Basculin - White Stripe, Hisuian",
+Basculegion - M,
+Basculegion - F,
+Zorua - Hisuian,
+Zoroark - Hisuian,
+Braviary - Hisuian,
+Sliggoo - Hisuian,
+Goodra - Hisuian,
+Avalugg - Hisuian,
+Decidueye - Hisuian,
+Wyrdeer,
+Kleavor,
+Ursaluna,
+Enamorus - Incarnate,
+Enamorus - Therian,
+GENERATION 9:,
+Tauros - Combat Breed,
+Tauros - Blaze Breed,
+Tauros - Aqua Breed,
+Wooper - Paldean,
+Clodsire,
+Sprigatito,
+Floragato,
+Meowscarada,
+Fuecoco,
+Crocalor,
+Skeledirge,
+Quaxly,
+Quaxwell,
+Quaquaval,
+Lechonk,
+Oinkologne - M,
+Oinkologne - F,
+Tarountula,
+Spidops,
+Nymble,
+Lokix,
+Pawmi,
+Pawmo,
+Pawmot,
+Tandemaus,
+Maushold - Family of Three,
+Maushold - Family of Four,
+Fidough,
+Dachsbun,
+Smoliv,
+Dolliv,
+Arboliva,
+Squawkabilly - Green Plumage,
+Squawkabilly - Blue Plumage,
+Squawkabilly - Yellow Plumage,
+Squawkabilly - White Plumage,
+Nacli,
+Naclstack,
+Garganacl,
+Annihilape,
+Charcadet,
+Armarouge,
+Ceruledge,
+Tadbulb,
+Bellibolt,
+Wattrel,
+Kilowattrel,
+Dudunsparce - 2 Segment,
+Dudunsparce - 3 Segment,
+Farigiraf,
+Maschiff,
+Mabosstiff,
+Shroodle,
+Grafaiai,
+Bramblin,
+Brambleghast,
+Toedscool,
+Toedscruel,
+Klawf,
+Capaskid,
+Scovillain,
+Rellor,
+Rabsca,
+Flittle,
+Esparthra,
+Tinkatink,
+Tinkatuff,
+Tinkaton,
+Wiglett,
+Wugtrio,
+Bombirdier,
+Finizen,
+Palafin - Zero,
+Palafin - Hero,
+Varoom,
+Revaroom,
+Cyclizar,
+Orthworm,
+Glimmet,
+Glimmora,
+Greavard,
+Houndstone,
+Flamigo,
+Cetoddle,
+Cetitan,
+Kingambit,
+Veluza,
+Dondozo,
+Tatsugiri - Curly,
+Tatsugiri - Droopy,
+Tatsugiri - Stretchy,
+Great Tusk,
+Scream Tail,
+Brute Bonnet,
+Flutter Mane,
+Slither Wing,
+Sandy Shocks,
+Iron Treads,
+Iron Bundle,
+Iron Hands,
+Iron Jugulis,
+Iron Moth,
+Iron Thorns,
+Frigibax,
+Arctibax,
+Baxcalibur,
+Gimmighoul - Roaming,
+Gimmighoul - Chest,
+Gholdengo,
+Wo-Chien,
+Chien-Pao,
+Ting-Lu,
+Chi-Yu,
+Roaring Moon,
+Iron Valiant,
+Koraidon,
+Miraidon,
+Walking Wake,
+Iron Leaves,
+Okidogi,
+Munkidori,
+Fezandipiti,
+Ogerpon,
+Terapagos,
